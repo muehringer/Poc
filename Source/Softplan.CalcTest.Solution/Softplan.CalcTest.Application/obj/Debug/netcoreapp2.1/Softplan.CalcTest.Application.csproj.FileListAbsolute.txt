@@ -1,0 +1,14 @@
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Application.deps.json
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Application.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Application.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.csprojAssemblyReference.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.AssemblyInfo.cs
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.csproj.CopyComplete
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Application\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Application.pdb

@@ -1,0 +1,12 @@
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.deps.json
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.csprojAssemblyReference.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.AssemblyInfo.cs
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.csproj.CopyComplete
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Domain\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Domain.pdb

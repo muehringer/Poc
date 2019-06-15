@@ -1,0 +1,9 @@
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.deps.json
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\bin\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.AssemblyInfo.cs
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.dll
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.pdb
+C:\Users\alexa\Projetos\TestesEmprego\Softplan\Source\Softplan.CalcTest.Solution\Softplan.CalcTest.Infrastructure\obj\Debug\netcoreapp2.1\Softplan.CalcTest.Infrastructure.csprojAssemblyReference.cache
